@@ -18,7 +18,7 @@ public class palindrome {
 					return;
 				}
 			}
-			System.out.println("The string is a palindrome");
+			System.out.println("The string is a palindrome"
 	}
 
 	public static void main(String[] args){
