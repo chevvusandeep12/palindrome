@@ -14,7 +14,7 @@ public class palindrome {
 			{
 				if(str.charAt(i)!=str.charAt(j))
 				{
-					System.out.println("The string is not a palindrome"
+					System.out.println("The string is not a palindrome");
 					return;
 				}
 			}
